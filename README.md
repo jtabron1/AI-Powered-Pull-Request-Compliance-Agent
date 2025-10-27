@@ -1,4 +1,4 @@
-# PR Compliance Agent
+# AI-Powered Pull Request Compliance Agent
 
 > An automated n8n workflow that enforces peer review policies for GitHub pull requests, providing detective controls, audit trails, and accountability when branch protection rules are bypassed.
 
